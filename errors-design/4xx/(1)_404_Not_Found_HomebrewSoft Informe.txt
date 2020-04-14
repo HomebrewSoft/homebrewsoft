@@ -1,0 +1,57 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: (1)_404_Not_Found_HomebrewSoft.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: centímetros
+Dimensiones de la mesa de trabajo: 48.1902 cm x 27.0902 cm
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+PANTONE 108 U (Lab)
+PANTONE 420 C (Lab)
+PANTONE 421 C (Lab)
+PANTONE 422 C (Lab)
+PANTONE 423 C (Lab)
+PANTONE 424 C (Lab)
+PANTONE 425 C (Lab)
+PANTONE 426 C (Lab)
+PANTONE Black 6 C (Lab)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+IBM Plex Mono Bold (TrueType)
+NewsGoth BT Bold (OTF)
+NewsGoth BT Roman (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\USER\Desktop\404_Not_Found_HomebrewSoft\Elementos gráficos\elemento 2(foco).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 824K, 366 por 577 píxeles
+Dimensiones: 175.68 por 276.96 puntos 
+Resolución: 150 por 150 píxeles por pulgada
